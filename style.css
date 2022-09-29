@@ -1,0 +1,12 @@
+*{
+font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+color: #000;
+}
+ul{
+    text-decoration: line-through;
+    list-style-type: lower-alpha;
+    background-color: bisque;
+}
