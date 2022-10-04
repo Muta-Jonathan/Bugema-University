@@ -6,7 +6,7 @@ h1{
 color: #000;
 }
 ul{
-    text-decoration: line-through;
-    list-style-type: lower-alpha;
+    text-decoration: none;
+    list-style-type: disc;
     background-color: bisque;
 }
